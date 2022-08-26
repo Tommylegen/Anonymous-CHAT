@@ -131,7 +131,7 @@ const sections = [
 ]}]
 const listMessage = {
 text: `Dibuat Dengan 💖 Oleh @${x3.split("@")[0]}`,
-footer: "Tutorial/Cara menggunakan bot anonymous-chat: https://md-devs.herokuapp.com/anonymous\n\n[ THX TO ]\n• RIMURUBOTZ\n• LOLIKILLERS\n• LORD.R1YNZ",
+footer: "Tutorial/Cara menggunakan bot anonymous-chat: https://rajadev-api.herokuapp.com\n\n[ THX TO ]\n• RAJADEV\n• MY SUPPORT\n• MY TEAM",
 title: "[ *ANONYMOUS V1* ]",
 buttonText: "LIST-COMMAND",
 mentions: ownerNumber,
@@ -241,6 +241,6 @@ Download("audio", cekUser("teman", sender))
 }
 if (m.messages[0].type == "videoMessage") { 
 Download("video", cekUser("teman", sender), m.messages[0].message.videoMessage.caption)}}
-if (budy == prefix + "sc"){reply("https://za.uy/4JGWB")} // JANGAN DI UBAH:(
+if (budy == prefix + "sc"){reply("https://youtu.be/sOmktqYamTM")} // JANGAN DI UBAH:(
 }} catch (err) {
 console.log(color('[ERROR]', 'red'), err)}}
